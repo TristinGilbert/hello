@@ -8,7 +8,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello");
+  printf("Computer Science");
 
   return 0;
 }
